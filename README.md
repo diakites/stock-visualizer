@@ -1,4 +1,5 @@
 "Stock visualizer project from Real_Python"
-
-
+"Install the requirement"
+"Then python main.py to run the program"
+"Run the program while the stock-market is open, otherwise it will be useless"
 "# stock-visualizer" 
